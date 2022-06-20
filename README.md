@@ -4,7 +4,7 @@ Simulation of an autonomous vehicle maneuvering when a sudden obstacle emerges f
 
 ![MPC](https://github.com/mych907/MPC_Simulink/blob/main/MPC2.gif?raw=true)
 
-Tested in MATLAB/Simulink 2020b
+Tested in MATLAB/Simulink 2020b, CarSim 2021.1
 
 Path planning: modified A*
 
